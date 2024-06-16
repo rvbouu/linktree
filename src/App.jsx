@@ -1,12 +1,13 @@
+import Header from './components/header/Header';
+import socials from './assets/datasets/socials.json';
 
 
-function App() {
+
+export default function App() {
 
   return (
     <>
-
+      <Header />
     </>
   )
 }
-
-export default App
