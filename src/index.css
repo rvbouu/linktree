@@ -18,8 +18,12 @@ a {
 }
 
 body {
-  background-image: url(./assets/images/background.png);
-  background-size: cover;
+  background-image: url(./assets/images/blurred_background.png);
+  background-size:cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 p {
@@ -28,7 +32,17 @@ p {
   text-decoration: underline;
 }
 
-a {
+a, button {
   text-decoration: none;
   color: #684929;
+}
+
+.viewport{
+  width: 320px;
+}
+
+@media screen and (max-width: 400px){
+  body{
+    background-size: 375%;
+  }
 }

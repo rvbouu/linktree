@@ -5,7 +5,7 @@ import {Header, Socials, YouTube, Coding, Icons} from './components'
 export default function App() {
 
   return (
-    <>
+    <div className='viewport'>
       <Header />
       <Icons />
       {/* Latest YouTube Video - try to do with YouTube API */}
@@ -13,6 +13,6 @@ export default function App() {
       {/* Coding Things */}
       <Coding />
       <Socials />
-    </>
+    </div>
   )
 }

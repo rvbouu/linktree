@@ -2,8 +2,7 @@ import './Button.css'
 
 export default function Button({ data }) {
   return (
-    <button className='links'>
-      <a href={data.url}>{data.title}</a>
-    </button>
+    <a href={data.url} target='_blank'><button className='links'>
+      {data.title}</button></a>
   )
 }
