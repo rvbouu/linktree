@@ -1,11 +1,11 @@
-.socialSect {
+.coding {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-bottom: 1rem;
 }
 
-#socialtitle {
+#codingtitle {
   text-shadow: 1px 0 4px #ffffff;
   text-decoration: underline;
 }

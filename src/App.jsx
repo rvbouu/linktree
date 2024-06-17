@@ -1,4 +1,4 @@
-import {Header, Socials, YouTube} from './components'
+import {Header, Socials, YouTube, Coding} from './components'
 
 
 
@@ -10,6 +10,7 @@ export default function App() {
       {/* Latest YouTube Video - try to do with YouTube API */}
       <YouTube />
       {/* Coding Things */}
+      <Coding />
       <Socials />
     </>
   )
