@@ -1,0 +1,11 @@
+.socialSect {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#socialtitle {
+  text-shadow: 1px 0 4px #ffffff;
+  text-align: center;
+  vertical-align: center;
+}

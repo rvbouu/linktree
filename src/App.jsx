@@ -1,5 +1,4 @@
-import Header from './components/header/Header';
-import socials from './assets/datasets/socials.json';
+import {Header, Socials} from './components'
 
 
 
@@ -8,6 +7,7 @@ export default function App() {
   return (
     <>
       <Header />
+      <Socials />
     </>
   )
 }
