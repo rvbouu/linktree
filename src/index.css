@@ -24,6 +24,8 @@ body {
 
 p {
   font-size: 1.5rem;
+  text-shadow: 1px 0 4px #ffffff;
+  text-decoration: underline;
 }
 
 a {

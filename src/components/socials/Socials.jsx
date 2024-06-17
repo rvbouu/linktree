@@ -11,6 +11,8 @@ export default function Socials() {
       {socials?.map((social, i) => (
         <Button data={social} key={i} />
       ))}
+      <p className='inquire'>For Business Inquiries</p>
+      <a href="mailto:vanessabou.inquiries@gmail.com" className='email'>Send Me an Email</a>
     </section>
   )
 }
