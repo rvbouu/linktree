@@ -46,7 +46,6 @@
 @keyframes strokeAnimate{
   to{
       stroke-dashoffset: 0;
-
   }
 }
 
