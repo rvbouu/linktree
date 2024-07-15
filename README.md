@@ -1,6 +1,6 @@
 # LinkTree
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a22a45c1-d659-48e7-bba9-3b8ea24fec28/deploy-status)](https://app.netlify.com/sites/vanessa-linktree/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a22a45c1-d659-48e7-bba9-3b8ea24fec28/deploy-status)](https://app.netlify.com/sites/vanessa-links/deploys)
 
 ## Description
 
@@ -52,11 +52,11 @@ For the loading page, I referenced this article from [Dev.to](https://dev.to/beg
    
    you will then be taken to a live server running the site where if edits are made to the code base they can be seen in real time.
 
-* Users can also feel free to access the live application directly by visiting the [Netlify link](https://vanessa-linktree.netlify.app/).
+* Users can also feel free to access the live application directly by visiting the [Netlify link](https://vanessa-links.netlify.app/).
 
 ## Usage
 
-This application is very user intuitive, just visit the [site](https://vanessa-linktree.netlify.app/), and each button will take you to it's respective website.
+This application is very user intuitive, just visit the [site](https://vanessa-links.netlify.app/), and each button will take you to it's respective website.
 
 ## Suggested Future Development
 
@@ -68,4 +68,4 @@ This application is very user intuitive, just visit the [site](https://vanessa-l
 
 ## Deployed Application
 
-[Link to deployed application on Netlify](https://vanessa-linktree.netlify.app/)
+[Link to deployed application on Netlify](https://vanessa-links.netlify.app/)
