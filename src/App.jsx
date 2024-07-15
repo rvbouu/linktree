@@ -4,13 +4,13 @@ import { useEffect, useState } from "react";
 
 
 export default function App() {
-  const [loading, setLoading] = useState(true)
-  useEffect(() => {
-    setTimeout(() => setLoading(false), 3300)
-  }, [])
-  if (loading) {
-    return <Loading />
-  }
+  // const [loading, setLoading] = useState(true)
+  // useEffect(() => {
+  //   setTimeout(() => setLoading(false), 3300)
+  // }, [])
+  // if (loading) {
+  //   return <Loading />
+  // }
   return (
     <div className='viewport'>
       <Header />
